@@ -19,5 +19,7 @@ Senior @ UNA
 
 ### Play my game Disappearing Professors 
 [Concept Game](https://tonyaleman.github.io/friendly-engine-dev-charlie/)
+
 [Full Game](https://tonyaleman.github.io/fuzzy-octo-train-dev-charlie/)
+
 [REPO for Game](https://github.com/tonyaleman/friendly-engine-dev-charlie)
